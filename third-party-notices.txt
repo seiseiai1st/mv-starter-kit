@@ -1,0 +1,25 @@
+MV Starter Kit - Third-Party Notices
+====================================
+
+This browser tool includes the following third-party software.
+
+@ffmpeg/core 0.12.10
+License: GNU General Public License v2.0 or later (GPL-2.0-or-later)
+Corresponding source release: https://github.com/ffmpegwasm/ffmpeg.wasm/releases/tag/v12.15
+Source and build information: https://github.com/ffmpegwasm/ffmpeg.wasm
+License text included with this distribution: GPL-2.0.txt
+
+@ffmpeg/ffmpeg 0.12.15 and @ffmpeg/util 0.12.2
+License: MIT
+Source: https://github.com/ffmpegwasm/ffmpeg.wasm
+
+JSZip 3.10.1
+License: MIT OR GPL-3.0-or-later (used under MIT)
+Source: https://github.com/Stuk/jszip
+
+Lucide React 0.468.0
+License: ISC
+Source: https://github.com/lucide-icons/lucide
+
+The application code and the third-party components remain subject to their
+respective license terms. This notice is provided with the deployed tool.
